@@ -88,7 +88,7 @@ For Blob management there is this nice SDK for Python.
 Don't forget to open firewall for your raspberry pi and VS.
 
 * [Create a server-level firewall rule for your SQL database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-get-started-portal-firewall)
-
+## 5. More Info
 For more detailed info visit: 
 * [Microsoft Azure Github](https://github.com/Azure)
 * [Micorsoft Azure Docs](https://docs.microsoft.com/pt-pt/azure/)
