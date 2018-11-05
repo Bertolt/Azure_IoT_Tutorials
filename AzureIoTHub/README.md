@@ -67,7 +67,7 @@ Please refer to the following for more information.
 
 ### 3.1  Create Analytics Job on Azure IoT
 
-[Scheme  of Stream Analytics](https://gist.github.com/Bertolt/a493a980c5cb7f07e13e82d4655c742f#file-raspi_in_out-png)
+![Scheme  of Stream Analytics](https://github.com/Bertolt/Azure_IoT_Tutorials/blob/master/AzureIoTHub/raspi_in_out.png)
 #### 3.1.2 Azure Portal
 * [Create a Stream Analytics job by using the Azure portal](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-quick-create-portal)
 #### 3.1.3 Azure Power Shell
