@@ -50,6 +50,7 @@ Edit the ```SimulatedDevice.py``` script and edit the ```CONNECTION_STRING``` wi
 ```
 az iot hub device-identity show-connection-string --hub-name <YourHubName> --device-id <YourDeviceName> --output table
 ```
+Run the script to generate telemetry and send to IoT Hub:
 ```
 python SimulatedDevice.py
 ```
