@@ -67,7 +67,7 @@ Please refer to the following for more information.
 
 ### 3.1  Create Analytics Job on Azure IoT
 
-![Scheme  of Stream Analytics](https://gist.github.com/Bertolt/a493a980c5cb7f07e13e82d4655c742f#file-raspi_in_out-png)
+[Scheme  of Stream Analytics](https://gist.github.com/Bertolt/a493a980c5cb7f07e13e82d4655c742f#file-raspi_in_out-png)
 #### 3.1.2 Azure Portal
 * [Create a Stream Analytics job by using the Azure portal](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-quick-create-portal)
 #### 3.1.3 Azure Power Shell
@@ -77,5 +77,19 @@ Please refer to the following for more information.
 
 ## 4. Create Storage in Azure (Storage)
 ### 4.1 Blob
+* [Upload, download, and list blobs with the Azure portal](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal)
+
+For Blob management there is this nice SDK for Python.
+
+* [Upload, download, and list blobs using Python](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-python)
 ### 4.2 SQL Database
-### 4.3 Cosmos DB
+* [Create an Azure SQL database in the Azure portal](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-get-started-portal)
+
+Don't forget to open firewall for your raspberry pi and VS.
+
+* [Create a server-level firewall rule for your SQL database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-get-started-portal-firewall)
+
+For more detailed info visit: 
+* [Microsoft Azure Github](https://github.com/Azure)
+* [Micorsoft Azure Docs](https://docs.microsoft.com/pt-pt/azure/)
+* [Azure IoT SDKs](https://github.com/Azure/azure-iot-sdks)
